@@ -6,7 +6,7 @@ A **PRO NET** é uma empresa focada em **desenvolvimento seguro, cibersegurança
 
 ---
 
-## 🚀 Sobre o Projeto
+## Sobre o Projeto
 
 Este repositório marca o início da estrutura oficial da PRO NET no GitHub.
 
